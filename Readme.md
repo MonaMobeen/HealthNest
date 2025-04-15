@@ -24,7 +24,7 @@ A modern, secure, and scalable telemedicine web application built with cutting-e
 - **Backend**: [Node.js](https://nodejs.org/) + [Express.js](https://expressjs.com/)
 - **Database**: [Supabase](https://supabase.io/) – HIPAA-compliant PostgreSQL alternative
 - **Authentication**:  Firebase Auth 
-- **Hosting**: [Vercel](https://vercel.com/) / AWS
+- **Hosting**: [Vercel](https://vercel.com/)  
 
 ---
 
