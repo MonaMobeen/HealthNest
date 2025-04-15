@@ -1,0 +1,85 @@
+<h1 align="center">🌐 HealthNest – Revolutionizing Telemedicine</h1>
+
+<p align="center">
+HealthNest is a modern, full-featured telehealth platform offering seamless virtual care. Built with Next.js, Node.js, and Supabase, it empowers patients, doctors, and admins with real-time communication, secure records, and smart appointment systems.
+</p>
+
+---
+
+## 🚀 Key Features  
+
+- 👥 **Role-Based Access Control**  
+  - **Patients**: Book consultations, chat with doctors, access prescriptions  
+  - **Doctors**: Manage availability, view patient records, video consultations  
+  - **Admins**: Monitor platform, manage users & appointments  
+
+- 🩺 **HIPAA-Compliant Video Calls**  
+- 📅 **Smart Appointment Booking**  
+- 💬 **Real-time Chat System**  
+- 📁 **Medical Record Upload & Access**  
+- 💊 **E-Prescriptions** Generation  
+- 💳 **Integrated Payments & Insurance Check**  
+- 🤖 **AI Symptom Checker Bot**  
+- 📊 **Dashboards** for Patients, Doctors & Admins  
+
+---
+
+## 🧠 Tech Stack  
+
+- **Frontend**: [Next.js](https://nextjs.org/) + [TypeScript](https://www.typescriptlang.org/)  
+- **Backend**: [Node.js](https://nodejs.org/) + [Express.js](https://expressjs.com/)  
+- **Database**: [Supabase](https://supabase.io/) – HIPAA-compliant PostgreSQL  
+- **Authentication**: Supabase Auth / Firebase Auth  
+- **Video Calls**: [WebRTC](https://webrtc.org/) / [Twilio](https://www.twilio.com/) / [Agora](https://www.agora.io/)  
+- **Payments**: [Stripe](https://stripe.com/) / [PayPal](https://paypal.com)  
+- **Hosting**: [Vercel](https://vercel.com/) / AWS  
+
+---
+
+## 👨‍⚕️ User Roles & Dashboards  
+
+### 👤 Patient Portal  
+- 📋 View medical history & prescriptions  
+- 📅 Book virtual appointments  
+- 📁 Upload test reports  
+- 💬 Secure chat with doctors  
+- 💳 Manage payments & insurance  
+
+### 🩺 Doctor Dashboard  
+- 🗓 Manage schedule & availability  
+- 📞 Join video consultations  
+- 📁 Access patient health records  
+- 💊 Generate & send e-prescriptions  
+- 📈 Track earnings & consultations  
+
+### 🛠️ Admin Panel  
+- 📊 Analytics dashboard  
+- 👥 Manage users (patients & doctors)  
+- 📅 Monitor all appointments  
+- 💰 Oversee payments and system health  
+- ⚙️ Platform configuration  
+
+---
+
+## 📺 Video Demo – How to Use HealthNest  
+
+Watch this full walkthrough of the HealthNest platform, covering patient registration, doctor consultations, and the admin dashboard.
+
+📹 **Video Guide**: https://youtu.be/your-demo-link  
+
+---
+
+## 📂 Getting Started Locally  
+
+```bash
+# Clone the repository
+git clone https://github.com/your-username/healthnest.git
+
+# Navigate into the project folder
+cd healthnest
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev
