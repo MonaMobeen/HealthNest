@@ -1,85 +1,55 @@
-<h1 align="center">🌐 HealthNest – Revolutionizing Telemedicine</h1>
+# 🌐 TeleHealth360 – Revolutionizing Healthcare with Technology
 
-<p align="center">
-HealthNest is a modern, full-featured telehealth platform offering seamless virtual care. Built with Next.js, Node.js, and Supabase, it empowers patients, doctors, and admins with real-time communication, secure records, and smart appointment systems.
-</p>
+💊 **All-in-One Telemedicine Platform for Patients, Doctors & Admins**
 
----
-
-## 🚀 Key Features  
-
-- 👥 **Role-Based Access Control**  
-  - **Patients**: Book consultations, chat with doctors, access prescriptions  
-  - **Doctors**: Manage availability, view patient records, video consultations  
-  - **Admins**: Monitor platform, manage users & appointments  
-
-- 🩺 **HIPAA-Compliant Video Calls**  
-- 📅 **Smart Appointment Booking**  
-- 💬 **Real-time Chat System**  
-- 📁 **Medical Record Upload & Access**  
-- 💊 **E-Prescriptions** Generation  
-- 💳 **Integrated Payments & Insurance Check**  
-- 🤖 **AI Symptom Checker Bot**  
-- 📊 **Dashboards** for Patients, Doctors & Admins  
+A modern, secure, and scalable telemedicine web application built with cutting-edge technologies to provide seamless virtual healthcare experiences.
 
 ---
 
-## 🧠 Tech Stack  
+## 🚀 Key Features
 
-- **Frontend**: [Next.js](https://nextjs.org/) + [TypeScript](https://www.typescriptlang.org/)  
-- **Backend**: [Node.js](https://nodejs.org/) + [Express.js](https://expressjs.com/)  
-- **Database**: [Supabase](https://supabase.io/) – HIPAA-compliant PostgreSQL  
-- **Authentication**: Supabase Auth / Firebase Auth  
-- **Video Calls**: [WebRTC](https://webrtc.org/) / [Twilio](https://www.twilio.com/) / [Agora](https://www.agora.io/)  
-- **Payments**: [Stripe](https://stripe.com/) / [PayPal](https://paypal.com)  
-- **Hosting**: [Vercel](https://vercel.com/) / AWS  
-
----
-
-## 👨‍⚕️ User Roles & Dashboards  
-
-### 👤 Patient Portal  
-- 📋 View medical history & prescriptions  
-- 📅 Book virtual appointments  
-- 📁 Upload test reports  
-- 💬 Secure chat with doctors  
-- 💳 Manage payments & insurance  
-
-### 🩺 Doctor Dashboard  
-- 🗓 Manage schedule & availability  
-- 📞 Join video consultations  
-- 📁 Access patient health records  
-- 💊 Generate & send e-prescriptions  
-- 📈 Track earnings & consultations  
-
-### 🛠️ Admin Panel  
-- 📊 Analytics dashboard  
-- 👥 Manage users (patients & doctors)  
-- 📅 Monitor all appointments  
-- 💰 Oversee payments and system health  
-- ⚙️ Platform configuration  
+- ✅ **Secure Authentication with Role-Based Access**  
+- 📞 **HIPAA-Compliant Video Consultations & Medical Record Uploads**  
+- 📅 **Book Appointments, Chat Live, Get E-Prescriptions Instantly**  
+- 🤖 **AI Chatbot for Initial Symptom Checks**  
+- 💳 **Integrated Payments & Insurance Verification**  
+- 👨‍⚕️ **Doctor & Admin Dashboards for Total Control**  
+- 📱 **Multi-Device & Cross-Platform Support**
 
 ---
 
-## 📺 Video Demo – How to Use HealthNest  
+## 🧠 Tech Stack
 
-Watch this full walkthrough of the HealthNest platform, covering patient registration, doctor consultations, and the admin dashboard.
-
-📹 **Video Guide**: https://youtu.be/your-demo-link  
+- **Frontend**: [Next.js](https://nextjs.org/) + [TypeScript](https://www.typescriptlang.org/)
+- **Backend**: [Node.js](https://nodejs.org/) + [Express.js](https://expressjs.com/)
+- **Database**: [Supabase](https://supabase.io/) – HIPAA-compliant PostgreSQL alternative
+- **Authentication**:  Firebase Auth 
+- **Hosting**: [Vercel](https://vercel.com/) / AWS
 
 ---
 
-## 📂 Getting Started Locally  
+## 🩺 Platform Navigation Overview
 
-```bash
-# Clone the repository
-git clone https://github.com/your-username/healthnest.git
+### 👤 Patient Features
+- Dashboard – View medical history, appointments, and records
+- Find a Doctor – Filter by specialty, availability, and rating
+- Book Appointment – Choose timeslot for virtual consultations
+- Chat & Video Call – Secure communication with doctors
+- E-Prescriptions – View/download prescriptions
+- Medical Records – Upload & manage reports
+- Payments & Insurance – Manage billing and claims
 
-# Navigate into the project folder
-cd healthnest
+### 👨‍⚕️ Doctor Features
+- Doctor Dashboard – Manage appointments, availability, and profile
+- Patient Requests – Accept or decline consultations
+- Consultation Room – Video call & prescribe medications
+- Medical Records – Access patient EHR securely
+- Earnings & Payouts – Track revenue and withdrawals
 
-# Install dependencies
-npm install
-
-# Start the development server
-npm run dev
+### 🛠️ Admin Features
+- Admin Dashboard – Analytics and system overview
+- Manage Users – Approve or remove doctors/patients
+- Appointments Overview – View all bookings
+- Payments & Transactions – Monitor financial data
+- System Settings – Configure platform preferences
+ 
